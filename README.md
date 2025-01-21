@@ -17,6 +17,6 @@ As mentioned earlier, this was not possible without the help of varied forums, G
 1. https://in.mathworks.com/matlabcentral/
 2. https://github.com/Saptarshi-prog/DSBSC-simulation-by-MATLAB/tree/master
 3. https://in.mathworks.com/matlabcentral/answers/121119-add-a-varying-phase-shift-to-a-sine-wave-linspace-involved
-4.https://in.mathworks.com/help/releases/R2024b/images/fourier-transform.html?searchHighlight=how%20to%20plot%20output%20of%20fourier()%20function&s_tid=doc_srchtitle
+4. https://in.mathworks.com/help/releases/R2024b/images/fourier-transform.html?searchHighlight=how%20to%20plot%20output%20of%20fourier()%20function&s_tid=doc_srchtitle
 
 There are many such resources but unfortunately it isn't possible to list them all here. This doesn't imply that due credit is not given to any such of the resources.
